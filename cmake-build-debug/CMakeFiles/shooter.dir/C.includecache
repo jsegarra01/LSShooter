@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/josep/CLionProjects/shooter/Ext2Utilities.c
+Ext2Utilities.h
+C:/Users/josep/CLionProjects/shooter/Ext2Utilities.h
+
+C:/Users/josep/CLionProjects/shooter/Ext2Utilities.h
+Logic.h
+C:/Users/josep/CLionProjects/shooter/Logic.h
+
+C:/Users/josep/CLionProjects/shooter/Fat16Utilities.h
+Logic.h
+C:/Users/josep/CLionProjects/shooter/Logic.h
+
+C:/Users/josep/CLionProjects/shooter/Logic.h
+stdio.h
+-
+malloc.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/josep/CLionProjects/shooter/main.c
+Fat16Utilities.h
+C:/Users/josep/CLionProjects/shooter/Fat16Utilities.h
+Ext2Utilities.h
+C:/Users/josep/CLionProjects/shooter/Ext2Utilities.h
+Logic.h
+C:/Users/josep/CLionProjects/shooter/Logic.h
+

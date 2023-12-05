@@ -1,0 +1,3 @@
+C:\Users\josep\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\222.4167.35\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\shooter.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\shooter.dir/objects.a @CMakeFiles\shooter.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\shooter.dir/objects.a -Wl,--no-whole-archive -o shooter.exe -Wl,--out-implib,libshooter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\shooter.dir\linklibs.rsp

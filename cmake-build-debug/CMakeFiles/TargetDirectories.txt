@@ -1,0 +1,3 @@
+C:/Users/josep/CLionProjects/shooter/cmake-build-debug/CMakeFiles/shooter.dir
+C:/Users/josep/CLionProjects/shooter/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/josep/CLionProjects/shooter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
